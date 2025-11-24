@@ -1,0 +1,5 @@
+{
+  "name": "PinkCare - Soutien Cancer du Sein",
+  "description": "Une application complète de gestion de santé et de soutien pour le cancer du sein, intégrant des rendez-vous, un suivi de santé alimenté par l'IA Gemini, et des événements communautaires.",
+  "requestFramePermissions": []
+}
